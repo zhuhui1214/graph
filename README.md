@@ -1,2 +1,2 @@
 # graph
-1：图像基本算子:sobel
+1：基本图像算子:sobel
